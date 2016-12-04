@@ -1,0 +1,3 @@
+aykina_app_homepage:
+    path:     /
+    defaults: { _controller: AykinaAppBundle:Default:index }
